@@ -1,0 +1,14 @@
+C:\Users\mylena.assis\source\repos\PesquisaEmLargura\PesquisaEmLargura\bin\Debug\net8.0\PesquisaEmLargura.exe
+C:\Users\mylena.assis\source\repos\PesquisaEmLargura\PesquisaEmLargura\bin\Debug\net8.0\PesquisaEmLargura.deps.json
+C:\Users\mylena.assis\source\repos\PesquisaEmLargura\PesquisaEmLargura\bin\Debug\net8.0\PesquisaEmLargura.runtimeconfig.json
+C:\Users\mylena.assis\source\repos\PesquisaEmLargura\PesquisaEmLargura\bin\Debug\net8.0\PesquisaEmLargura.dll
+C:\Users\mylena.assis\source\repos\PesquisaEmLargura\PesquisaEmLargura\bin\Debug\net8.0\PesquisaEmLargura.pdb
+C:\Users\mylena.assis\source\repos\PesquisaEmLargura\PesquisaEmLargura\obj\Debug\net8.0\PesquisaEmLargura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mylena.assis\source\repos\PesquisaEmLargura\PesquisaEmLargura\obj\Debug\net8.0\PesquisaEmLargura.AssemblyInfoInputs.cache
+C:\Users\mylena.assis\source\repos\PesquisaEmLargura\PesquisaEmLargura\obj\Debug\net8.0\PesquisaEmLargura.AssemblyInfo.cs
+C:\Users\mylena.assis\source\repos\PesquisaEmLargura\PesquisaEmLargura\obj\Debug\net8.0\PesquisaEmLargura.csproj.CoreCompileInputs.cache
+C:\Users\mylena.assis\source\repos\PesquisaEmLargura\PesquisaEmLargura\obj\Debug\net8.0\PesquisaEmLargura.dll
+C:\Users\mylena.assis\source\repos\PesquisaEmLargura\PesquisaEmLargura\obj\Debug\net8.0\refint\PesquisaEmLargura.dll
+C:\Users\mylena.assis\source\repos\PesquisaEmLargura\PesquisaEmLargura\obj\Debug\net8.0\PesquisaEmLargura.pdb
+C:\Users\mylena.assis\source\repos\PesquisaEmLargura\PesquisaEmLargura\obj\Debug\net8.0\PesquisaEmLargura.genruntimeconfig.cache
+C:\Users\mylena.assis\source\repos\PesquisaEmLargura\PesquisaEmLargura\obj\Debug\net8.0\ref\PesquisaEmLargura.dll
